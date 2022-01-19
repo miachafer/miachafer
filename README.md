@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on build my first API with Python
 - 🌱 I’m currently learning Python and Java
-- 👯 I've been selected to learn Python with [Gama Academy](https://www.gama.academy/)'s Construdelas training 
 
   ##
   
