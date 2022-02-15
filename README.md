@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python and Java
+#### About me
+- ☕ Currently learning Java.
+- 🐍 All I know about programming logic I learned from Python.
+- 🎓 I have a Bachelor in Management and work experience in B2B marketing and sales in a startups environment.
+- 📖 So, I'm a self-taught software developer.
+- 🧭 I've been trying to figure this thing out probably since 2020.
+- ⚛️ I'm also interested in hardware and quantum computing.
 
   ##
   
