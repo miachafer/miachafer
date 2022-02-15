@@ -1,12 +1,20 @@
-### Hi there 👋
+## Hi there 👋
 
-#### About me
+### About me
 - ☕ Currently learning Java.
 - 🐍 All I know about programming logic I learned from Python.
 - 🎓 I have a Bachelor in Management and work experience in B2B marketing and sales in a startups environment.
 - 📖 So, I'm a self-taught software developer.
 - 🧭 I've been trying to figure this thing out probably since 2020.
 - ⚛️ I'm also interested in hardware and quantum computing.
+
+### ✨ About you ✨
+Sign my guestbook below!
+<p>
+  <a href="https://gist.github.com/miachafer/ec85cec5ef2a8f9937be7ea7d2341153">
+    <img src="https://gist.githubusercontent.com/miachafer/ec85cec5ef2a8f9937be7ea7d2341153/raw/79c620d64b3fe9a97a324e82f703d9cd8ffdee00/my-guestbook.gif" alt="Sign my guestbook!">
+  </a>
+</p>
 
   ##
   
