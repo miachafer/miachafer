@@ -5,7 +5,7 @@
 - 🐍 Python
 - 🎓 Bachelor of Business Administration
 - 📖 Self-taught software developer
-- 🧭 Software developer wannabe since 2021
+- 🧭 Software developer since 2021
 
 <!--
 <p>
